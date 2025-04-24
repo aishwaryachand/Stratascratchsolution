@@ -8,4 +8,4 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [10363](https://platform.stratascratch.com/coding/10363-weekly-orders-report?code_type=5) | Weekly Orders Report | [SQL](Easy/10363_Weekly_Orders_Report.sql)
+| [2004]https://platform.stratascratch.com/coding/2004-number-of-comments-per-user-in-past-30-days?code_type=3 | Number of Comments per user | [SQL](Easy/2004.sql)
